@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef5a8cf8-6ed8-41f3-94f3-637530ff63d0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WVm49GOIOK3Vp9TFj0dobGznnC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Restart/Templates/templatemo_269_pineapple/templatemo_269_pineapple/templatemo_style.css" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef5a8cf8-6ed8-41f3-94f3-637530ff63d0" name="Default Changelist" comment="" />
+      <created>1579242950442</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579242950442</updated>
+      <workItem from="1579242985713" duration="15856000" />
+      <workItem from="1579452568885" duration="1064000" />
+      <workItem from="1579495422368" duration="3821000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1579243529780">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1579243529780" />
+    <state x="-7" y="0" width="818" height="867" key="dock-window-1" timestamp="1579504541891">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="-7" y="0" width="818" height="867" key="dock-window-1/0.0.1600.860@0.0.1600.860" timestamp="1579504541891" />
+    <state x="797" y="0" width="810" height="867" key="dock-window-2" timestamp="1579504541891">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="797" y="0" width="810" height="867" key="dock-window-2/0.0.1600.860@0.0.1600.860" timestamp="1579504541891" />
+  </component>
+</project>
